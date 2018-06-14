@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/
+images/
+pictures/
+Data/
+Images/
+Pictures/
+Plots/
+Figures/
+plots/
+figures/
